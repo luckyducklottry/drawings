@@ -20,3 +20,15 @@ model-3-base.txt        2491365
 model-1-reduced.txt     194449
 model-2-reduced.txt     123672
 model-3-reduced.txt      24214
+
+
+results:
+The winning combination was: 12-30-59-65-69  PB 16
+
+The winning combination was     FOUND in: model-2-base.txt
+The winning combination was NOT FOUND in: model-2-reduced.txt
+
+The numbers 65 and 69 are the two numbers that prevented the algorithms from including
+the winning combination in model-2-reduced.txt
+
+The good news is 12, 30 and 59 were included as part of the selection criteria while generating model-2-reduced.txt
